@@ -1,0 +1,6 @@
+echo "# hubangorek" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/angorek333/hubangorek.git
+git push -u origin master
